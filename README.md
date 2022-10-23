@@ -12,7 +12,7 @@ todo
 <h2>seconde step</h2>
 <p><b>it will be show some messages right bottom of visual studio code</b></p><p style:"colors:red;">like this</p>
 <a href="https://ibb.co/9Z3GKBR"><img src="https://i.ibb.co/41gJvCB/image.png" alt="image" border="0"></a>
-<p>just press get packegs and it will show new folder called<mark>dart_tool</mark></p>
+<p>just press get packegs and it will show new folder called <mark>dart_tool</mark></p>
 <p>if you finished after install packegs just restart visual studio code and it will show up</p>
 <p>after this just correct few things in screens folder like old widgets from</p> <a href="https://docs.flutter.dev/release/breaking-changes/buttons">from here</a>
 
