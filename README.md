@@ -1,7 +1,7 @@
 # togo
 todo
 <hr>
-to install the project you shpuld make somthing in visual studio code
+<h1>to install the project you shpuld make somthing in visual studio code</h1>
 <h2>first stip</h2>
 <p>go to Extensions section</p>
 <p>and download this Extensions (dart-import)</p>
